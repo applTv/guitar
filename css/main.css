@@ -1,0 +1,33 @@
+@font-face {
+    font-family: EkMuktaMedium-7vBD; /* Гарнитура шрифта */
+    src: url('../fonts/EkMuktaSemibold-dV97.ttf');
+}
+@font-face {
+    font-family: FallingSky-JKwK; /* Гарнитура шрифта */
+    src: url('../fonts/FallingSky-JKwK.otf');
+}
+@font-face {
+    font-family: TruenoUltralightItalic-AYmD; /* Гарнитура шрифта */
+    src: url('../fonts/TruenoUltralightItalic-AYmD.otf');
+}
+@font-face {
+    font-family: HussarSimpleGhost-2KXW; /* Гарнитура шрифта */
+    src: url('../fonts/HussarSimpleGhost-2KXW.otf');
+}
+body{
+    font-family: "Roboto", "Arial", FallingSky-JKwK;
+}
+    .imgdiv{
+    display: flex;
+    justify-content: center;
+}
+.font1{
+    font-family: TruenoUltralightItalic-AYmD ;
+}
+p{
+    font-family: FallingSky-JKwK ;
+    font-size: 15pt;
+}
+.textCar{
+    font-size: 15pt;
+}
